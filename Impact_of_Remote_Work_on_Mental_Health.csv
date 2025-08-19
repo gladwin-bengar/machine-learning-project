@@ -1,14 +1,14 @@
 Employee_ID,Age,Gender,Job_Role,Industry,Years_of_Experience,Work_Location,Hours_Worked_Per_Week,Number_of_Virtual_Meetings,Work_Life_Balance_Rating,Stress_Level,Mental_Health_Condition,Access_to_Mental_Health_Resources,Productivity_Change,Social_Isolation_Rating,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Physical_Activity,Sleep_Quality,Region
-EMP0001,32,Non-binary,HR,Healthcare,13,Hybrid,47,7,2,Medium,Depression,No,Decrease,1,Unsatisfied,1,Weekly,Good,Europe
-EMP0002,40,Female,Data Scientist,IT,3,Remote,52,4,1,Medium,Anxiety,No,Increase,3,Satisfied,2,Weekly,Good,Asia
+EMP0001,32,Non-binary,HR,Healthcare,5,Hybrid,47,7,2,Medium,Depression,No,Decrease,1,Unsatisfied,1,Weekly,Good,Europe
+EMP0002,40,Female,Data Scientist,IT,13,Remote,52,4,1,Medium,Anxiety,No,Increase,3,Satisfied,2,Weekly,Good,Asia
 EMP0003,59,Non-binary,Software Engineer,Education,22,Hybrid,46,11,5,Medium,Anxiety,No,No Change,4,Unsatisfied,5,None,Poor,North America
-EMP0004,27,Male,Software Engineer,Finance,20,Onsite,32,8,4,High,Depression,Yes,Increase,3,Unsatisfied,3,None,Poor,Europe
-EMP0005,49,Male,Sales,Consulting,32,Onsite,35,12,2,High,None,Yes,Decrease,3,Unsatisfied,3,Weekly,Average,North America
-EMP0006,59,Non-binary,Sales,IT,31,Hybrid,39,3,4,High,None,No,Increase,5,Unsatisfied,1,None,Average,South America
-EMP0007,31,Prefer not to say,Sales,IT,24,Remote,51,7,3,Low,Anxiety,Yes,Decrease,5,Neutral,3,Daily,Poor,Asia
-EMP0008,42,Non-binary,Data Scientist,Manufacturing,6,Onsite,54,7,3,Medium,Depression,No,Decrease,5,Satisfied,4,None,Average,North America
-EMP0009,56,Prefer not to say,Data Scientist,Healthcare,9,Hybrid,24,4,2,High,None,Yes,Decrease,2,Unsatisfied,4,Daily,Poor,Europe
-EMP0010,30,Female,HR,IT,28,Hybrid,57,6,1,Low,Depression,Yes,Decrease,2,Neutral,1,Weekly,Poor,North America
+EMP0004,27,Male,Software Engineer,Finance,5,Onsite,32,8,4,High,Depression,Yes,Increase,3,Unsatisfied,3,None,Poor,Europe
+EMP0005,49,Male,Sales,Consulting,20,Onsite,35,12,2,High,None,Yes,Decrease,3,Unsatisfied,3,Weekly,Average,North America
+EMP0006,59,Non-binary,Sales,IT,28,Hybrid,39,3,4,High,None,No,Increase,5,Unsatisfied,1,None,Average,South America
+EMP0007,31,Prefer not to say,Sales,IT,8,Remote,51,7,3,Low,Anxiety,Yes,Decrease,5,Neutral,3,Daily,Poor,Asia
+EMP0008,42,Non-binary,Data Scientist,Manufacturing,12,Onsite,54,7,3,Medium,Depression,No,Decrease,5,Satisfied,4,None,Average,North America
+EMP0009,56,Prefer not to say,Data Scientist,Healthcare,25,Hybrid,24,4,2,High,None,Yes,Decrease,2,Unsatisfied,4,Daily,Poor,Europe
+EMP0010,30,Female,HR,IT,8,Hybrid,57,6,1,Low,Depression,Yes,Decrease,2,Neutral,1,Weekly,Poor,North America
 EMP0011,33,Non-binary,Software Engineer,Finance,17,Remote,48,3,3,High,None,Yes,Decrease,4,Satisfied,2,Weekly,Average,Oceania
 EMP0012,47,Female,Marketing,Consulting,31,Hybrid,26,12,4,Medium,None,Yes,No Change,4,Neutral,3,Weekly,Poor,Africa
 EMP0013,40,Female,Marketing,Consulting,1,Remote,21,7,2,High,Depression,Yes,Decrease,2,Neutral,1,Weekly,Good,Europe
